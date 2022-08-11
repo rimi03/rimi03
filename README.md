@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @rimi03
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-rimi03/rimi03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Suleiman Rimi 
+- 👀 I’m interested in learning new ideas 
+- 🌱 I’m currently learning Software Engineering 
+- 💞️ I’m looking to collaborate on programming and Data processing 
+- 📫 How to reach me
